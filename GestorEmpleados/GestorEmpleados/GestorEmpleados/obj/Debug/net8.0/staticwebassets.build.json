@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ghZToB0obxViYimfR0vz53WB3EBLoF3YBa6JI8QljVk=",
+  "Source": "GestorEmpleados.API",
+  "BasePath": "_content/GestorEmpleados.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
